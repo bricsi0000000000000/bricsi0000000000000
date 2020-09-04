@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there
 
 <!--
 **bricsi0000000000000/bricsi0000000000000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
